@@ -22,9 +22,9 @@ Dữ liệu được lưu trên MongoDB Atlas.
 Sẽ cập nhật sau khi hoàn thiện Frontend và Backend.
 
 ## Các đường link nộp bài
-- GitHub: 
-- Docker Hub Backend: 
-- Docker Hub Frontend: 
-- Render App: 
-- Render API: 
-- MongoDB Atlas: 
+- GitHub: https://github.com/TranVanTy/239760_TranVanTy
+- Docker Hub Backend: https://hub.docker.com/repository/docker/tranvanty/hr-management-backend/general
+- Docker Hub Frontend: https://hub.docker.com/repository/docker/tranvanty/hr-management-frontend/general
+- Render App: https://web-239760.onrender.com
+- Render API: https://api-239760.onrender.com
+- MongoDB Atlas: mongodb+srv://nguoihung0909_db_user:***@clusternhansu.t3qszoo.mongodb.net/239760_TranVanTy?retryWrites=true&w=majority
